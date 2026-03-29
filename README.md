@@ -3,7 +3,7 @@
 Welcome to my developer log for **Google Summer of Code 2026**. I am hoping to work on building a comprehensive test suite for [gprMax](https://github.com/gprMax/gprMax).
 
 ## Project Overview
-**Title:** Building a Comprehensive Test Suite
+**Title:** Building a Comprehensive Test Suite <br>
 **Objective:** Create unit tests for the fundamental gprMax operations using `pytest`. Make validation tests to verify the accuracy of physics computations. Verify that tests run cross-platform.
 
 ## Quick Links
